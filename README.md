@@ -1,6 +1,6 @@
 # Olá, sou o Stiven Richardy 👋
 
-<p align="center">Eu ❤ novos desafios usando novas tecnologias!<br><br>💼 Estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão.</p>
+<p align="center">Estou pronto para novos desafios usando novas tecnologias!<br><br>💼 Estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão.</p>
 
 <div  align="center" style="margin-bottom:100px">
   <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Stiven-Richardy&theme=radical&mode=weekly" />
