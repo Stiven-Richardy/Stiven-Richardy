@@ -1,8 +1,8 @@
-<h2 align="left">Hello World👋! Meu nome é Stiven Richardy.</h2>
+<h2 align="left">Hello World👋! Meu nome é Stiven.</h2>
 
 ###
 
-<p align="left">Eu sou Stiven Richardy Silva Rodrigues estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão. Este repositório apresenta os alguns dos meus projetos na área de Tecnologia.</p>
+<p align="left">Sou Stiven Richardy Silva Rodrigues estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão. Este repositório apresenta os alguns dos meus projetos na área de Tecnologia.</p>
 
 ###
 
