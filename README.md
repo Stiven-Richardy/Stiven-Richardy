@@ -1,7 +1,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/Stiven-Richardy/Stiven-Richardy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Stiven-Richardy/Stiven-Richardy/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h1 align="left">Olá👋! Meu nome é Stiven Richardy.</h1>
 
