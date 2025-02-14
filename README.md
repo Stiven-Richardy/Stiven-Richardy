@@ -2,7 +2,7 @@
 <br>
 <p align="left">Sou Stiven Richardy Silva Rodrigues estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão. Este repositório apresenta os alguns dos meus projetos na área de Tecnologia.</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stiven-richardy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stiven-richardy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph"/>
 </div>
 <br>
 <h2 align="center">📚 Conhecimentos</h2>
