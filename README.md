@@ -1,16 +1,11 @@
-
-<br clear="both">
-
-![Snake animation](https://github.com/Stiven-Richardy/Stiven-Richardy/blob/output/github-contribution-grid-snake-dark.svg)
-
-<h1 align="left">Olá👋! Meu nome é Stiven Richardy.</h1>
+<h1 align="center"> Olá 👋! Meu nome é Stiven Richardy</h1>
 
 ###
 
 <p align="left">Sou Stiven Richardy Silva Rodrigues estudante do curso superior em Análise e Desenvolvimento de Sistemas pelo IFSP - Campus Cubatão e formado no curso técnico em Informática pelo IFSP - Campus Cubatão. Este repositório apresenta os alguns dos meus projetos na área de Tecnologia.</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stiven-richardy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stiven-richardy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="200" alt="languages graph" />
 </div>
 
 ###
@@ -64,6 +59,7 @@
   <a href="https://www.linkedin.com/in/stiven-richardy/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
   </a>
+  <img width="10"/>
   <a href="mailto:stivenrichardy445@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"/>
   </a>
@@ -71,7 +67,9 @@
 
 ###
 
-### <h3 align="center"> 👋 Obrigado por conhecer meu repositório no GitHub! </h3>
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;"/>
+</h1>
 <div align="center">
   <img height="600em" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
