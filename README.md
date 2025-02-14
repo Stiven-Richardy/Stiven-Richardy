@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/stiven-richardy/stiven-richardy/output/snake.svg" alt="Snake animation"/>
+![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="left">Olá👋! Meu nome é Stiven Richardy.</h1>
 
