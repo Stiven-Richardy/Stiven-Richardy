@@ -1,3 +1,4 @@
+
 <br clear="both">
 
 ![Snake animation](https://github.com/Stiven-Richardy/Stiven-Richardy/blob/output/github-contribution-grid-snake.svg)
