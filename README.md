@@ -1,5 +1,9 @@
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/stiven-richardy/stiven-richardy/output/snake.svg" alt="Snake animation"/>
+
+##
+
 <h2 align="left">Olá👋! Meu nome é Stiven Richardy.</h2>
 
 ###
