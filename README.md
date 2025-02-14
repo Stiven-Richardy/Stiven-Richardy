@@ -2,9 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/stiven-richardy/stiven-richardy/output/snake.svg" alt="Snake animation"/>
 
-##
-
-<h2 align="left">Olá👋! Meu nome é Stiven Richardy.</h2>
+<h1 align="left">Olá👋! Meu nome é Stiven Richardy.</h1>
 
 ###
 
@@ -14,7 +12,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stiven-richardy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
-## 📚 Conhecimentos:
+###
+
+## <h2 align=left>📚 Conhecimentos:</h2>
 
 ###
 
@@ -34,11 +34,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"/>
   <img width="10"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="50" alt="laravel logo"/>
+  <img width="10"/>
 </div>
 
 ###
 
-## 🛠 Ferramentas:
+## <h2 align=left>🛠 Ferramentas:</h2>
 
 ###
 
@@ -69,8 +70,7 @@
 
 ###
 
-## 👋 Obrigado por conhecer meu repositório no GitHub!
-
+### <h3 align="center"> 👋 Obrigado por conhecer meu repositório no GitHub! </h3>
 <div align="center">
   <img height="600em" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 </div>
